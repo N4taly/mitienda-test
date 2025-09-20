@@ -1,1 +1,1 @@
-# mitienda-tests
+# mitienda-test
